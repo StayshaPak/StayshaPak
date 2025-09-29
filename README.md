@@ -13,7 +13,7 @@
       <!-- Дополнительная информация: навыки, проекты и т.д. -->
     </td>
      <td style="text-align: center;">
-      <img src="https://i.pinimg.com/1200x/1e/e6/54/1ee654f04d664cf6d985c4fd8996a38e.jpg" alt="Ваше изображение" width="250px">
+      <img src="https://i.pinimg.com/1200x/1e/e6/54/1ee654f04d664cf6d985c4fd8996a38e.jpg" alt="Ваше изображение" width="250px" align="center">
     </td>
   </tr>
 </table>
@@ -27,3 +27,14 @@
 
 ___
 
+<h2 align="center">            ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~</h2>
+ <br>
+<p>
+  <div align="center">
+<img src="https://avatars.mds.yandex.net/i?id=71766d5e98f1c1204f507ebaea0bedee8b298a27-5026425-images-thumbs&n=13" align="right">
+  </div>
+</div>
+<div>
+ 
+I am a student at ITMO University in the field of InfoChemistry. Machine learning and artificial intelligence have even made their way into chemistry. To stay competitive, I'm learning programming in the field of chemistry. 
+</p>
