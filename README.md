@@ -1,25 +1,19 @@
 <body>
   <center>
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
-<br>
-<div align="center">
-   </div>
-<br>
-    <table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <!-- Здесь ваш текст -->
-      <p>My name is Nastya, but you call me just Staysha :) <br> Welcome to my GitHub page! <br> I am a chemist who decided to learn programming: data analysis and machine learning. Maybe I will get to AI as well. <br> I want to develop medicines using programming.</p>
-      <!-- Дополнительная информация: навыки, проекты и т.д. -->
-    </td>
-     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/1200x/1e/e6/54/1ee654f04d664cf6d985c4fd8996a38e.jpg" alt="Ваше изображение" width="250px" align="center">
-    </td>
-  </tr>
-</table>
- <div style="display: flex; align-items: flex-start;">
-  <div style="width: 50%; padding-right: 20px;">
-    
+ <br>
+<p>
+  <div align="center">
+<img src="https://i.pinimg.com/1200x/1e/e6/54/1ee654f04d664cf6d985c4fd8996a38e.jpg" align="right" width="300px">
+  </div>
+</div>
+<div>
+        My name is Nastya, but you call me just Staysha :) Welcome to my GitHub page! <br> I am a chemist who decided to learn programming: data analysis and machine learning. <br> Maybe I will get to AI as well. <br> I want to develop medicines using programming.
+<br><br>
+<br><br>
+</p>
+
+<br><br><br>
   ___
     
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +21,7 @@
 
 ___
 
-<h2 align="center">            ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~</h2>
+<h1 align="center">        ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~</h1>
  <br>
 <p>
   <div align="center">
@@ -35,6 +29,5 @@ ___
   </div>
 </div>
 <div>
- 
 I am a student at ITMO University in the field of InfoChemistry. Machine learning and artificial intelligence have even made their way into chemistry. To stay competitive, I'm learning programming in the field of chemistry. 
 </p>
