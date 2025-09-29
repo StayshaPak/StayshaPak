@@ -9,9 +9,7 @@
   <tr>
     <td width="50%" valign="top">
       <!-- Здесь ваш текст -->
-      <p>My name is Nastya, but you call me just Staysha :) Welcome to my GitHub page!
-      I am a chemist who decided to learn programming: data analysis and machine learning. Maybe I will get to AI as well.
-I want to develop medicines using programming.</p>
+      <p>My name is Nastya, but you call me just Staysha :) <br> Welcome to my GitHub page! <br> I am a chemist who decided to learn programming: data analysis and machine learning. Maybe I will get to AI as well. <br> I want to develop medicines using programming.</p>
       <!-- Дополнительная информация: навыки, проекты и т.д. -->
     </td>
    <td width="50%" valign="top">
