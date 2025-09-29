@@ -12,8 +12,8 @@
       <p>My name is Nastya, but you call me just Staysha :) <br> Welcome to my GitHub page! <br> I am a chemist who decided to learn programming: data analysis and machine learning. Maybe I will get to AI as well. <br> I want to develop medicines using programming.</p>
       <!-- Дополнительная информация: навыки, проекты и т.д. -->
     </td>
-   <td width="50%" valign="top">
-      <img src="https://i.pinimg.com/1200x/1e/e6/54/1ee654f04d664cf6d985c4fd8996a38e.jpg" alt="Ваше изображение" width="300px" align="right">
+  <td style="text-align: center;">
+      <img src="https://i.pinimg.com/1200x/1e/e6/54/1ee654f04d664cf6d985c4fd8996a38e.jpg" alt="Ваше изображение" width="250px">
     </td>
   </tr>
 </table>
