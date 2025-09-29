@@ -31,3 +31,12 @@ ___
 <div>
 I am a student at ITMO University in the field of InfoChemistry. Machine learning and artificial intelligence have even made their way into chemistry. To stay competitive, I'm learning programming in the field of chemistry. 
 </p>
+<br><br><br><br><br><br><br><br><br>
+
+___
+<p>
+  <div align="center">
+<img src="https://itmo.ru/file/pages/213/slogan_chernyy.png" align="center", width="200px">
+  </div>
+</p>
+
